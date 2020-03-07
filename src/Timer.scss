@@ -1,0 +1,26 @@
+.timerContainer {
+  position: absolute;
+  top: 2px;
+  left: 1%;
+  width: 98%;
+  height: 30px;
+  border: 1px solid black;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.fill {
+  height: 100%;
+  border-radius: 12px;
+  background-color: yellowgreen;
+  animation: fillit 45s linear;
+}
+
+@keyframes fillit {
+  from {
+    width: 0%;
+  }
+  to {
+    width: 100%;
+  }
+}
