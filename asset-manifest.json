@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/steve-harevey-100/static/css/main.59fade33.chunk.css",
-    "main.js": "/steve-harevey-100/static/js/main.4a6c2315.chunk.js",
-    "main.js.map": "/steve-harevey-100/static/js/main.4a6c2315.chunk.js.map",
+    "main.js": "/steve-harevey-100/static/js/main.25a42d05.chunk.js",
+    "main.js.map": "/steve-harevey-100/static/js/main.25a42d05.chunk.js.map",
     "runtime-main.js": "/steve-harevey-100/static/js/runtime-main.fcfc43a9.js",
     "runtime-main.js.map": "/steve-harevey-100/static/js/runtime-main.fcfc43a9.js.map",
     "static/js/2.98d6d43a.chunk.js": "/steve-harevey-100/static/js/2.98d6d43a.chunk.js",
     "static/js/2.98d6d43a.chunk.js.map": "/steve-harevey-100/static/js/2.98d6d43a.chunk.js.map",
     "index.html": "/steve-harevey-100/index.html",
-    "precache-manifest.f77e5309ba83d3cf6c08a0ad2f873b97.js": "/steve-harevey-100/precache-manifest.f77e5309ba83d3cf6c08a0ad2f873b97.js",
+    "precache-manifest.7dd6f5cc672da2f5696f8b6145b5fbc0.js": "/steve-harevey-100/precache-manifest.7dd6f5cc672da2f5696f8b6145b5fbc0.js",
     "service-worker.js": "/steve-harevey-100/service-worker.js",
     "static/css/main.59fade33.chunk.css.map": "/steve-harevey-100/static/css/main.59fade33.chunk.css.map",
     "static/js/2.98d6d43a.chunk.js.LICENSE.txt": "/steve-harevey-100/static/js/2.98d6d43a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fcfc43a9.js",
     "static/js/2.98d6d43a.chunk.js",
     "static/css/main.59fade33.chunk.css",
-    "static/js/main.4a6c2315.chunk.js"
+    "static/js/main.25a42d05.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/steve-harevey-100/precache-manifest.f77e5309ba83d3cf6c08a0ad2f873b97.js"
+  "/steve-harevey-100/precache-manifest.7dd6f5cc672da2f5696f8b6145b5fbc0.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2afe177f0d0e53130d96846dcc0529b",
+    "revision": "b4f9e184c115b37c67a5130d456f16fd",
     "url": "/steve-harevey-100/index.html"
   },
   {
-    "revision": "e2c42e226b2b79db745c",
+    "revision": "8ccbfbada51ad2d969e0",
     "url": "/steve-harevey-100/static/css/main.59fade33.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/steve-harevey-100/static/js/2.98d6d43a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e2c42e226b2b79db745c",
-    "url": "/steve-harevey-100/static/js/main.4a6c2315.chunk.js"
+    "revision": "8ccbfbada51ad2d969e0",
+    "url": "/steve-harevey-100/static/js/main.25a42d05.chunk.js"
   },
   {
     "revision": "5458fc443f7d62b90572",
