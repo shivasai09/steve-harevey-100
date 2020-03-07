@@ -44,7 +44,7 @@ class App extends React.Component {
     const { cards, isLoading } = this.state;
     return (
       <>
-        <Timer />
+        {!isLoading && <Timer />}
         <div className="cardContainer">
           {!!cards.length && !isLoading ? (
             <>
